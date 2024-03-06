@@ -1,0 +1,19 @@
+footer {
+	background-color: #326496;
+	font-family: ;
+	font-size: 31px;
+	color: #FFFFFF;
+	line-height: 35px;
+}
+
+.data {
+	margin: 2% 4% 0 6%;
+}
+
+.datapr {
+	margin: 0 4% 0 6%;
+}
+
+#reception {
+	margin: 7% 4% 0 6%;
+}
